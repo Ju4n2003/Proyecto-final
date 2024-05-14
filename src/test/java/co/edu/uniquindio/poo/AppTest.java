@@ -28,7 +28,7 @@ public class AppTest {
         LOG.info("Finalizando test shouldAnswerWithTrue");
     }
     @Test
-    public void shouldAnswerWithFalse(){
+    public void shouldAnswerWithFalsee(){
         LOG.info("Hola");
         assertFalse(false);
         LOG.info("Chao");
